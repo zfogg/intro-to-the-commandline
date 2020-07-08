@@ -16,6 +16,11 @@ Use the link above^ to do that :)
 
 Ask questions in the chat if you need to!
 
+Further resources:
+
+-   https://www.youtube.com/watch?v=4RPtJ9UyHS0&t=31s
+-   https://www.youtube.com/watch?v=oxuRxtrO2Ag
+
 ## Workshop Outline
 
 Timline: 55mins
