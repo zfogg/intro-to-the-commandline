@@ -4,6 +4,12 @@
 
 Timline: 55mins
 
+Unfortunately we won't have sudo access on an online REPL :(
+
+It's also going to be a mess to have everyone playing in the same REPL.
+
+So I will do a lot of this through screenshare, and have kids follow along!
+
 ### History
 
 10 mins
