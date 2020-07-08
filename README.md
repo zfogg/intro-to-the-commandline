@@ -1,16 +1,26 @@
 # Intro to the Command Line
 
-## Outline
+## Workshop Details
+
+-   Workshop Link http://steamcamproom0.hacker.fund/
+-   Link for students who want to follow along: https://repl.it/@zfogg/intro-to-the-commandline
+-   Times:
+    -   11:30 - 12:30 PDT
+    -   14:30 - 15:30 EDT
+
+Unfortunately we won't have admin access on an online REPL :( and, it would be too messy to have everyone playing in the same REPL.
+
+So I will do a lot of this through screenshare, and students can follow along if they like!
+
+Use the link above^ to do that :)
+
+Ask questions in the chat if you need to!
+
+## Workshop Outline
 
 Timline: 55mins
 
-Unfortunately we won't have sudo access on an online REPL :(
-
-It's also going to be a mess to have everyone playing in the same REPL.
-
-So I will do a lot of this through screenshare, and have students follow along if they like!
-
-### History
+### CLI History
 
 10 mins
 
