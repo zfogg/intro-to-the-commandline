@@ -22,6 +22,7 @@ Timline: 55mins
 -   REPL controls
     -   history: up, down
     -   history: search Ctrl-R
+    -   Ctrl-C
 -   Commands and arguments
     -   `--help, -h`
     -   man
