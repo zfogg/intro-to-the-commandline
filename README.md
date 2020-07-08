@@ -18,6 +18,8 @@ Ask questions in the chat if you need to!
 
 Further resources:
 
+-   Installing Linux on a Chromebook
+    -   https://support.google.com/chromebook/answer/9145439?hl=en
 -   https://www.youtube.com/watch?v=4RPtJ9UyHS0&t=31s
 -   https://www.youtube.com/watch?v=oxuRxtrO2Ag
 
