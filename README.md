@@ -8,7 +8,7 @@ Unfortunately we won't have sudo access on an online REPL :(
 
 It's also going to be a mess to have everyone playing in the same REPL.
 
-So I will do a lot of this through screenshare, and have kids follow along!
+So I will do a lot of this through screenshare, and have students follow along if they like!
 
 ### History
 
@@ -45,7 +45,7 @@ So I will do a lot of this through screenshare, and have kids follow along!
 
 ### Variables
 
-10 mins
+05 mins
 
 -   PATH, PWD, HOME, USER
 -   local variables
@@ -62,8 +62,18 @@ So I will do a lot of this through screenshare, and have kids follow along!
 -   Piping and redirecting
     -   `cat file.txt | less`
     -   `more < file.txt`
--   Expansion
+-   Read through and explain the scripts i wrote in `./scripts`
+    -   Use them with the skills we just learned
+-   If we have time (screenshare):
+    -   Expansion
     -   !!, !!2, !!\$
     -   `for f in *.txt; do cp "$f" "${f:r}.text"; done`
--   If we have time (screenshare):
     -   telnet towel.blinkenlights.nl
+
+### Q & A, Project Ideas
+
+10 mins
+
+-   What can you do with these skills?
+-   How do most people work?
+-   What other type of CLI
